@@ -1,0 +1,7 @@
+Process Backgrounded
+2021/12/20-14:07:39 OpenXPKI::Server (type Net::Server::Fork -> MultiType -> Net::Server::Fork) starting! pid(28)
+Binding to UNIX socket file "/var/openxpki/openxpki.socket"
+Group Not Defined.  Defaulting to EGID '0'
+User Not Defined.  Defaulting to EUID '0'
+Setting gid to "107"
+Setting uid to "104"

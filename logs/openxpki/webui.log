@@ -1,0 +1,1837 @@
+2021/12/20 14:08:24 Start fcgi loop 90, config: /etc/openxpki/webui/default.conf
+2021/12/20 14:08:24 check for cgi session, fcgi pid 90
+2021/12/20 14:08:24 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Use provided client instance
+2021/12/20 14:08:24 Backend session already loaded
+2021/12/20 14:08:24 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:08:24 Generate rtoken
+2021/12/20 14:08:24 Baseurl from referrer: /openxpki
+2021/12/20 14:08:24 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 request handled
+2021/12/20 14:08:24 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:08:24 check for cgi session, fcgi pid 90
+2021/12/20 14:08:24 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Use provided client instance
+2021/12/20 14:08:24 Backend session already loaded
+2021/12/20 14:08:24 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:08:24 not logged in - doing auth - page is welcome - action is 
+2021/12/20 14:08:24 request handled
+2021/12/20 14:08:24 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:08:24 check for cgi session, fcgi pid 90
+2021/12/20 14:08:24 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Use provided client instance
+2021/12/20 14:08:24 Backend session already loaded
+2021/12/20 14:08:24 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:08:24 Baseurl from referrer: /openxpki
+2021/12/20 14:08:24 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 request handled
+2021/12/20 14:08:24 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:08:24 check for cgi session, fcgi pid 90
+2021/12/20 14:08:24 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Use provided client instance
+2021/12/20 14:08:24 Backend session already loaded
+2021/12/20 14:08:24 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:08:24 not logged in - doing auth - page is login - action is 
+2021/12/20 14:08:24 request handled
+2021/12/20 14:08:24 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:24 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:08:59 check for cgi session, fcgi pid 90
+2021/12/20 14:08:59 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:59 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:59 Use provided client instance
+2021/12/20 14:08:59 Backend session already loaded
+2021/12/20 14:08:59 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:59 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:08:59 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:08:59 set auth_stack in session: Operator
+2021/12/20 14:08:59 Authentication stack: Operator
+2021/12/20 14:08:59 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:08:59 Requested login type PASSWD
+2021/12/20 14:08:59 No credentials, render form
+2021/12/20 14:08:59 request handled
+2021/12/20 14:08:59 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:08:59 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:12:40 check for cgi session, fcgi pid 90
+2021/12/20 14:12:40 I18N_OPENXPKI_CLIENT_SEND_RECEIVE_SERVICE_MSG_ERROR_DURING_COLLECT; __STATE__ => can_send; __EVAL_ERROR__ => I18N_OPENXPKI_TRANSPORT_SIMPLE_CLIENT_READ_CLOSED_CONNECTION at /usr/lib/x86_64-linux-gnu/perl5/5.20/OpenXPKI/Client.pm line 148.
+2021/12/20 14:12:40 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:12:40 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:12:40 Use provided client instance
+2021/12/20 14:12:40 Backend session already loaded
+2021/12/20 14:12:40 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:12:40 current session status GET_PASSWD_LOGIN
+2021/12/20 14:12:40 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:12:40 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:12:40 Requested login type PASSWD
+2021/12/20 14:12:40 Seems to be an auth try - validating
+2021/12/20 14:12:40 request handled
+2021/12/20 14:12:40 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:12:40 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:13:54 check for cgi session, fcgi pid 90
+2021/12/20 14:13:54 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:13:54 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:13:54 Use provided client instance
+2021/12/20 14:13:54 Backend session already loaded
+2021/12/20 14:13:54 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:13:54 current session status GET_PASSWD_LOGIN
+2021/12/20 14:13:54 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:13:54 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:13:54 Requested login type PASSWD
+2021/12/20 14:13:54 Seems to be an auth try - validating
+2021/12/20 14:13:54 request handled
+2021/12/20 14:13:54 Session store with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:13:54 Skipping session store for id bX4BMiQdTzyOoCn09ldbDg== - backend already gone
+2021/12/20 14:15:20 check for cgi session, fcgi pid 90
+2021/12/20 14:15:20 Backend client session id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:15:20 session id (front) is bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:15:20 Use provided client instance
+2021/12/20 14:15:20 Backend session already loaded
+2021/12/20 14:15:20 Resume backend session with id bX4BMiQdTzyOoCn09ldbDg==
+2021/12/20 14:15:20 current session status GET_PASSWD_LOGIN
+2021/12/20 14:15:20 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:15:20 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:15:20 Requested login type PASSWD
+2021/12/20 14:15:20 Seems to be an auth try - validating
+2021/12/20 14:15:20 Authentication successul - fetch session info
+2021/12/20 14:15:20 session rekeying done
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Regenerated backend session id: pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 request handled
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:20 check for cgi session, fcgi pid 90
+2021/12/20 14:15:20 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Use provided client instance
+2021/12/20 14:15:20 Backend session already loaded
+2021/12/20 14:15:20 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Send redirect to welcome
+2021/12/20 14:15:20 request handled
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:20 check for cgi session, fcgi pid 90
+2021/12/20 14:15:20 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Use provided client instance
+2021/12/20 14:15:20 Backend session already loaded
+2021/12/20 14:15:20 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 current session status SERVICE_READY
+2021/12/20 14:15:20 Generate rtoken
+2021/12/20 14:15:20 Baseurl from referrer: /openxpki
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 request handled
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:20 check for cgi session, fcgi pid 90
+2021/12/20 14:15:20 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Use provided client instance
+2021/12/20 14:15:20 Backend session already loaded
+2021/12/20 14:15:20 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 current session status SERVICE_READY
+2021/12/20 14:15:20 Loading handler class home
+2021/12/20 14:15:20 Method is init_welcome
+2021/12/20 14:15:20 Found welcome landmark - redirecting user to workflow!start!wf_type!status_system
+2021/12/20 14:15:20 request handled
+2021/12/20 14:15:20 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:20 check for cgi session, fcgi pid 90
+2021/12/20 14:15:20 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 Use provided client instance
+2021/12/20 14:15:20 Backend session already loaded
+2021/12/20 14:15:20 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:20 current session status SERVICE_READY
+2021/12/20 14:15:20 Loading handler class workflow
+2021/12/20 14:15:21 Method is init_start
+2021/12/20 14:15:21 Create new workflow status_system, got id 0
+2021/12/20 14:15:21 deletegating render to OpenXPKI::Client::UI::Handle::Status, render_system_status
+2021/12/20 14:15:21 request handled
+2021/12/20 14:15:21 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:21 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:27 check for cgi session, fcgi pid 90
+2021/12/20 14:15:27 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:27 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:27 Use provided client instance
+2021/12/20 14:15:27 Backend session already loaded
+2021/12/20 14:15:27 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:27 current session status SERVICE_READY
+2021/12/20 14:15:27 Loading handler class certificate
+2021/12/20 14:15:27 Method is init_search
+2021/12/20 14:15:27 request handled
+2021/12/20 14:15:27 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:27 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:32 check for cgi session, fcgi pid 90
+2021/12/20 14:15:32 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:32 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:32 Use provided client instance
+2021/12/20 14:15:32 Backend session already loaded
+2021/12/20 14:15:32 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:32 current session status SERVICE_READY
+2021/12/20 14:15:32 Loading handler class workflow
+2021/12/20 14:15:32 Method is init_search
+2021/12/20 14:15:32 request handled
+2021/12/20 14:15:32 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:32 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:15:34 check for cgi session, fcgi pid 90
+2021/12/20 14:15:34 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:34 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:34 Use provided client instance
+2021/12/20 14:15:34 Backend session already loaded
+2021/12/20 14:15:34 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:34 current session status SERVICE_READY
+2021/12/20 14:15:34 Loading handler class certificate
+2021/12/20 14:15:34 Method is init_search
+2021/12/20 14:15:34 request handled
+2021/12/20 14:15:34 Session store with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:15:34 Skipping session store for id pN+ywEThSpCkw7nPjMoFTw== - backend already gone
+2021/12/20 14:16:02 check for cgi session, fcgi pid 90
+2021/12/20 14:16:02 Backend client session id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:16:02 session id (front) is pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:16:02 Use provided client instance
+2021/12/20 14:16:02 Backend session already loaded
+2021/12/20 14:16:02 Resume backend session with id pN+ywEThSpCkw7nPjMoFTw==
+2021/12/20 14:16:02 session logout
+2021/12/20 14:16:02 session deleted.
+2021/12/20 14:16:02 session renew while not in session - do init.
+2021/12/20 14:16:02 Session removed
+2021/12/20 14:16:02 Logout from session
+2021/12/20 14:16:02 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:02 request handled
+2021/12/20 14:16:03 Session removed
+2021/12/20 14:16:03 Unable to remove session - backend already gone
+2021/12/20 14:16:03 check for cgi session, fcgi pid 90
+2021/12/20 14:16:03 Backend client session id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 session id (front) is 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 Use provided client instance
+2021/12/20 14:16:03 Backend session already loaded
+2021/12/20 14:16:03 Resume backend session with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:03 Generate rtoken
+2021/12/20 14:16:03 Baseurl from referrer: /openxpki
+2021/12/20 14:16:03 Session store with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 request handled
+2021/12/20 14:16:03 Session store with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 Skipping session store for id 3eU+mrMQTnOA2i/o4vr+pA== - backend already gone
+2021/12/20 14:16:03 check for cgi session, fcgi pid 90
+2021/12/20 14:16:03 Backend client session id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 session id (front) is 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 Use provided client instance
+2021/12/20 14:16:03 Backend session already loaded
+2021/12/20 14:16:03 Resume backend session with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:03 request handled
+2021/12/20 14:16:03 Session store with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:03 Skipping session store for id 3eU+mrMQTnOA2i/o4vr+pA== - backend already gone
+2021/12/20 14:16:04 check for cgi session, fcgi pid 90
+2021/12/20 14:16:04 Backend client session id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 session id (front) is 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 Use provided client instance
+2021/12/20 14:16:04 Backend session already loaded
+2021/12/20 14:16:04 Resume backend session with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:04 Baseurl from referrer: /openxpki
+2021/12/20 14:16:04 Session store with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 request handled
+2021/12/20 14:16:04 Session store with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 Skipping session store for id 3eU+mrMQTnOA2i/o4vr+pA== - backend already gone
+2021/12/20 14:16:04 check for cgi session, fcgi pid 90
+2021/12/20 14:16:04 Backend client session id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 session id (front) is 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 Use provided client instance
+2021/12/20 14:16:04 Backend session already loaded
+2021/12/20 14:16:04 Resume backend session with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:04 not logged in - doing auth - page is login - action is 
+2021/12/20 14:16:04 request handled
+2021/12/20 14:16:04 Session store with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:04 Skipping session store for id 3eU+mrMQTnOA2i/o4vr+pA== - backend already gone
+2021/12/20 14:16:07 check for cgi session, fcgi pid 90
+2021/12/20 14:16:07 Backend client session id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:07 session id (front) is 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:07 Use provided client instance
+2021/12/20 14:16:07 Backend session already loaded
+2021/12/20 14:16:07 Resume backend session with id 3eU+mrMQTnOA2i/o4vr+pA==
+2021/12/20 14:16:07 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:07 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:16:07 set auth_stack in session: Anonymous
+2021/12/20 14:16:07 Authentication stack: Anonymous
+2021/12/20 14:16:07 Selected realm , new status SERVICE_READY
+2021/12/20 14:16:07 Authentication successul - fetch session info
+2021/12/20 14:16:07 session rekeying done
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Regenerated backend session id: /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 request handled
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Skipping session store for id /jyqkmlAS8CJO7h6meAjIQ== - backend already gone
+2021/12/20 14:16:07 check for cgi session, fcgi pid 90
+2021/12/20 14:16:07 Backend client session id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 session id (front) is /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Use provided client instance
+2021/12/20 14:16:07 Backend session already loaded
+2021/12/20 14:16:07 Resume backend session with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Send redirect to welcome
+2021/12/20 14:16:07 request handled
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Skipping session store for id /jyqkmlAS8CJO7h6meAjIQ== - backend already gone
+2021/12/20 14:16:07 check for cgi session, fcgi pid 90
+2021/12/20 14:16:07 Backend client session id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 session id (front) is /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Use provided client instance
+2021/12/20 14:16:07 Backend session already loaded
+2021/12/20 14:16:07 Resume backend session with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 current session status SERVICE_READY
+2021/12/20 14:16:07 Generate rtoken
+2021/12/20 14:16:07 Baseurl from referrer: /openxpki
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 request handled
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Skipping session store for id /jyqkmlAS8CJO7h6meAjIQ== - backend already gone
+2021/12/20 14:16:07 check for cgi session, fcgi pid 90
+2021/12/20 14:16:07 Backend client session id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 session id (front) is /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Use provided client instance
+2021/12/20 14:16:07 Backend session already loaded
+2021/12/20 14:16:07 Resume backend session with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 current session status SERVICE_READY
+2021/12/20 14:16:07 Loading handler class home
+2021/12/20 14:16:07 Method is init_welcome
+2021/12/20 14:16:07 request handled
+2021/12/20 14:16:07 Session store with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:07 Skipping session store for id /jyqkmlAS8CJO7h6meAjIQ== - backend already gone
+2021/12/20 14:16:14 check for cgi session, fcgi pid 90
+2021/12/20 14:16:14 Backend client session id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:14 session id (front) is /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:14 Use provided client instance
+2021/12/20 14:16:14 Backend session already loaded
+2021/12/20 14:16:14 Resume backend session with id /jyqkmlAS8CJO7h6meAjIQ==
+2021/12/20 14:16:14 session logout
+2021/12/20 14:16:14 session deleted.
+2021/12/20 14:16:14 session renew while not in session - do init.
+2021/12/20 14:16:14 Session removed
+2021/12/20 14:16:14 Logout from session
+2021/12/20 14:16:14 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:14 request handled
+2021/12/20 14:16:14 Session removed
+2021/12/20 14:16:14 Unable to remove session - backend already gone
+2021/12/20 14:16:14 check for cgi session, fcgi pid 90
+2021/12/20 14:16:14 Backend client session id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 session id (front) is NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 Use provided client instance
+2021/12/20 14:16:14 Backend session already loaded
+2021/12/20 14:16:14 Resume backend session with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:14 Generate rtoken
+2021/12/20 14:16:14 Baseurl from referrer: /openxpki
+2021/12/20 14:16:14 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 request handled
+2021/12/20 14:16:14 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 Skipping session store for id NkqSieUlSmWn4AoYQNXRqQ== - backend already gone
+2021/12/20 14:16:14 check for cgi session, fcgi pid 90
+2021/12/20 14:16:14 Backend client session id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 session id (front) is NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 Use provided client instance
+2021/12/20 14:16:14 Backend session already loaded
+2021/12/20 14:16:14 Resume backend session with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:14 request handled
+2021/12/20 14:16:14 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:14 Skipping session store for id NkqSieUlSmWn4AoYQNXRqQ== - backend already gone
+2021/12/20 14:16:17 check for cgi session, fcgi pid 90
+2021/12/20 14:16:17 Backend client session id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 session id (front) is NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 Use provided client instance
+2021/12/20 14:16:17 Backend session already loaded
+2021/12/20 14:16:17 Resume backend session with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:17 Baseurl from referrer: /openxpki
+2021/12/20 14:16:17 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 request handled
+2021/12/20 14:16:17 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 Skipping session store for id NkqSieUlSmWn4AoYQNXRqQ== - backend already gone
+2021/12/20 14:16:17 check for cgi session, fcgi pid 90
+2021/12/20 14:16:17 Backend client session id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 session id (front) is NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 Use provided client instance
+2021/12/20 14:16:17 Backend session already loaded
+2021/12/20 14:16:17 Resume backend session with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:17 not logged in - doing auth - page is login - action is 
+2021/12/20 14:16:17 request handled
+2021/12/20 14:16:17 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:17 Skipping session store for id NkqSieUlSmWn4AoYQNXRqQ== - backend already gone
+2021/12/20 14:16:22 check for cgi session, fcgi pid 90
+2021/12/20 14:16:22 Backend client session id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:22 session id (front) is NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:22 Use provided client instance
+2021/12/20 14:16:22 Backend session already loaded
+2021/12/20 14:16:22 Resume backend session with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:22 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:22 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:16:22 set auth_stack in session: User
+2021/12/20 14:16:22 Authentication stack: User
+2021/12/20 14:16:22 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:16:22 Requested login type PASSWD
+2021/12/20 14:16:22 No credentials, render form
+2021/12/20 14:16:22 request handled
+2021/12/20 14:16:22 Session store with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:22 Skipping session store for id NkqSieUlSmWn4AoYQNXRqQ== - backend already gone
+2021/12/20 14:16:23 check for cgi session, fcgi pid 90
+2021/12/20 14:16:23 Backend client session id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:23 session id (front) is NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:23 Use provided client instance
+2021/12/20 14:16:23 Backend session already loaded
+2021/12/20 14:16:23 Resume backend session with id NkqSieUlSmWn4AoYQNXRqQ==
+2021/12/20 14:16:23 current session status GET_PASSWD_LOGIN
+2021/12/20 14:16:23 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:16:23 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:16:23 Requested login type PASSWD
+2021/12/20 14:16:23 Seems to be an auth try - validating
+2021/12/20 14:16:23 Authentication successul - fetch session info
+2021/12/20 14:16:24 session rekeying done
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Regenerated backend session id: Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 request handled
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Skipping session store for id Ng4atTiMSS67wiX+Orp3pw== - backend already gone
+2021/12/20 14:16:24 check for cgi session, fcgi pid 90
+2021/12/20 14:16:24 Backend client session id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 session id (front) is Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Use provided client instance
+2021/12/20 14:16:24 Backend session already loaded
+2021/12/20 14:16:24 Resume backend session with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Send redirect to welcome
+2021/12/20 14:16:24 request handled
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Skipping session store for id Ng4atTiMSS67wiX+Orp3pw== - backend already gone
+2021/12/20 14:16:24 check for cgi session, fcgi pid 90
+2021/12/20 14:16:24 Backend client session id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 session id (front) is Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Use provided client instance
+2021/12/20 14:16:24 Backend session already loaded
+2021/12/20 14:16:24 Resume backend session with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 current session status SERVICE_READY
+2021/12/20 14:16:24 Generate rtoken
+2021/12/20 14:16:24 Baseurl from referrer: /openxpki
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 request handled
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Skipping session store for id Ng4atTiMSS67wiX+Orp3pw== - backend already gone
+2021/12/20 14:16:24 check for cgi session, fcgi pid 90
+2021/12/20 14:16:24 Backend client session id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 session id (front) is Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Use provided client instance
+2021/12/20 14:16:24 Backend session already loaded
+2021/12/20 14:16:24 Resume backend session with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 current session status SERVICE_READY
+2021/12/20 14:16:24 Loading handler class home
+2021/12/20 14:16:24 Method is init_welcome
+2021/12/20 14:16:24 request handled
+2021/12/20 14:16:24 Session store with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:24 Skipping session store for id Ng4atTiMSS67wiX+Orp3pw== - backend already gone
+2021/12/20 14:16:27 check for cgi session, fcgi pid 90
+2021/12/20 14:16:27 Backend client session id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:27 session id (front) is Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:27 Use provided client instance
+2021/12/20 14:16:27 Backend session already loaded
+2021/12/20 14:16:27 Resume backend session with id Ng4atTiMSS67wiX+Orp3pw==
+2021/12/20 14:16:27 session logout
+2021/12/20 14:16:27 session deleted.
+2021/12/20 14:16:27 session renew while not in session - do init.
+2021/12/20 14:16:27 Session removed
+2021/12/20 14:16:27 Logout from session
+2021/12/20 14:16:27 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:27 request handled
+2021/12/20 14:16:27 Session removed
+2021/12/20 14:16:27 Unable to remove session - backend already gone
+2021/12/20 14:16:27 check for cgi session, fcgi pid 90
+2021/12/20 14:16:27 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:27 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:27 Use provided client instance
+2021/12/20 14:16:27 Backend session already loaded
+2021/12/20 14:16:27 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:27 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:27 Generate rtoken
+2021/12/20 14:16:27 Baseurl from referrer: /openxpki
+2021/12/20 14:16:27 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:28 request handled
+2021/12/20 14:16:28 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:28 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:16:28 check for cgi session, fcgi pid 90
+2021/12/20 14:16:28 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:28 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:28 Use provided client instance
+2021/12/20 14:16:28 Backend session already loaded
+2021/12/20 14:16:28 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:28 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:16:28 request handled
+2021/12/20 14:16:28 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:16:28 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:18:56 check for cgi session, fcgi pid 90
+2021/12/20 14:18:56 I18N_OPENXPKI_CLIENT_SEND_RECEIVE_SERVICE_MSG_ERROR_DURING_COLLECT; __EVAL_ERROR__ => I18N_OPENXPKI_TRANSPORT_SIMPLE_CLIENT_READ_CLOSED_CONNECTION at /usr/lib/x86_64-linux-gnu/perl5/5.20/OpenXPKI/Client.pm line 148.
+; __STATE__ => can_send
+2021/12/20 14:18:56 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:56 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:56 Use provided client instance
+2021/12/20 14:18:56 Backend session already loaded
+2021/12/20 14:18:56 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:56 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:18:56 Baseurl from referrer: /openxpki
+2021/12/20 14:18:56 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 request handled
+2021/12/20 14:18:57 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:18:57 check for cgi session, fcgi pid 90
+2021/12/20 14:18:57 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Use provided client instance
+2021/12/20 14:18:57 Backend session already loaded
+2021/12/20 14:18:57 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:18:57 not logged in - doing auth - page is welcome - action is 
+2021/12/20 14:18:57 request handled
+2021/12/20 14:18:57 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:18:57 check for cgi session, fcgi pid 90
+2021/12/20 14:18:57 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Use provided client instance
+2021/12/20 14:18:57 Backend session already loaded
+2021/12/20 14:18:57 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:18:57 Baseurl from referrer: /openxpki
+2021/12/20 14:18:57 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 request handled
+2021/12/20 14:18:57 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:18:57 check for cgi session, fcgi pid 90
+2021/12/20 14:18:57 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Use provided client instance
+2021/12/20 14:18:57 Backend session already loaded
+2021/12/20 14:18:57 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:18:57 not logged in - doing auth - page is login - action is 
+2021/12/20 14:18:57 request handled
+2021/12/20 14:18:57 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:18:57 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:19:01 check for cgi session, fcgi pid 90
+2021/12/20 14:19:01 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:01 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:01 Use provided client instance
+2021/12/20 14:19:01 Backend session already loaded
+2021/12/20 14:19:01 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:01 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:19:01 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:19:01 set auth_stack in session: User
+2021/12/20 14:19:01 Authentication stack: User
+2021/12/20 14:19:01 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:19:01 Requested login type PASSWD
+2021/12/20 14:19:01 No credentials, render form
+2021/12/20 14:19:01 request handled
+2021/12/20 14:19:01 Session store with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:01 Skipping session store for id TzQjjsygQ565Zls9Ir6UYg== - backend already gone
+2021/12/20 14:19:12 check for cgi session, fcgi pid 90
+2021/12/20 14:19:12 Backend client session id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:12 session id (front) is TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:12 Use provided client instance
+2021/12/20 14:19:12 Backend session already loaded
+2021/12/20 14:19:12 Resume backend session with id TzQjjsygQ565Zls9Ir6UYg==
+2021/12/20 14:19:12 current session status GET_PASSWD_LOGIN
+2021/12/20 14:19:12 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:19:12 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:19:12 Requested login type PASSWD
+2021/12/20 14:19:12 Seems to be an auth try - validating
+2021/12/20 14:19:12 Authentication successul - fetch session info
+2021/12/20 14:19:12 session rekeying done
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Regenerated backend session id: xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 request handled
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:12 check for cgi session, fcgi pid 90
+2021/12/20 14:19:12 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Use provided client instance
+2021/12/20 14:19:12 Backend session already loaded
+2021/12/20 14:19:12 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Send redirect to welcome
+2021/12/20 14:19:12 request handled
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:12 check for cgi session, fcgi pid 90
+2021/12/20 14:19:12 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Use provided client instance
+2021/12/20 14:19:12 Backend session already loaded
+2021/12/20 14:19:12 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 current session status SERVICE_READY
+2021/12/20 14:19:12 Generate rtoken
+2021/12/20 14:19:12 Baseurl from referrer: /openxpki
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 request handled
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:12 check for cgi session, fcgi pid 90
+2021/12/20 14:19:12 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Use provided client instance
+2021/12/20 14:19:12 Backend session already loaded
+2021/12/20 14:19:12 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 current session status SERVICE_READY
+2021/12/20 14:19:12 Loading handler class home
+2021/12/20 14:19:12 Method is init_welcome
+2021/12/20 14:19:12 request handled
+2021/12/20 14:19:12 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:12 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:23 check for cgi session, fcgi pid 90
+2021/12/20 14:19:23 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 Use provided client instance
+2021/12/20 14:19:23 Backend session already loaded
+2021/12/20 14:19:23 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 current session status SERVICE_READY
+2021/12/20 14:19:23 Loading handler class workflow
+2021/12/20 14:19:23 Method is init_index
+2021/12/20 14:19:23 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_profile_select
+2021/12/20 14:19:23 wf token id MDdsZ6VFI4dGDjUoFrSADnJo16w
+2021/12/20 14:19:23 request handled
+2021/12/20 14:19:23 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:23 check for cgi session, fcgi pid 90
+2021/12/20 14:19:23 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 Use provided client instance
+2021/12/20 14:19:23 Backend session already loaded
+2021/12/20 14:19:23 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 current session status SERVICE_READY
+2021/12/20 14:19:23 handle action profile!get_styles_for_profile
+2021/12/20 14:19:23 Loading handler class profile
+2021/12/20 14:19:23 Method is action_get_styles_for_profile
+2021/12/20 14:19:23 request handled
+2021/12/20 14:19:23 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:23 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:28 check for cgi session, fcgi pid 90
+2021/12/20 14:19:28 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:28 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:28 Use provided client instance
+2021/12/20 14:19:28 Backend session already loaded
+2021/12/20 14:19:28 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:28 current session status SERVICE_READY
+2021/12/20 14:19:28 handle action profile!get_styles_for_profile
+2021/12/20 14:19:28 Loading handler class profile
+2021/12/20 14:19:28 Method is action_get_styles_for_profile
+2021/12/20 14:19:28 request handled
+2021/12/20 14:19:28 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:28 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:29 check for cgi session, fcgi pid 90
+2021/12/20 14:19:29 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:29 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:29 Use provided client instance
+2021/12/20 14:19:29 Backend session already loaded
+2021/12/20 14:19:29 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:29 current session status SERVICE_READY
+2021/12/20 14:19:29 handle action workflow
+2021/12/20 14:19:29 Loading handler class workflow
+2021/12/20 14:19:29 Method is action_index
+2021/12/20 14:19:29 load wf_token MDdsZ6VFI4dGDjUoFrSADnJo16w
+2021/12/20 14:19:30 Create new workflow certificate_signing_request_v2, got id 511
+2021/12/20 14:19:30 purge wf_token MDdsZ6VFI4dGDjUoFrSADnJo16w
+2021/12/20 14:19:30 request handled
+2021/12/20 14:19:30 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:30 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:30 check for cgi session, fcgi pid 90
+2021/12/20 14:19:30 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:30 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:30 Use provided client instance
+2021/12/20 14:19:30 Backend session already loaded
+2021/12/20 14:19:30 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:30 current session status SERVICE_READY
+2021/12/20 14:19:30 Loading handler class workflow
+2021/12/20 14:19:30 Method is init_load
+2021/12/20 14:19:30 Adding global actions 
+2021/12/20 14:19:30 request handled
+2021/12/20 14:19:30 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:30 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:36 check for cgi session, fcgi pid 90
+2021/12/20 14:19:36 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:36 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:36 Use provided client instance
+2021/12/20 14:19:36 Backend session already loaded
+2021/12/20 14:19:36 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:36 current session status SERVICE_READY
+2021/12/20 14:19:36 handle action workflow!select!wf_action!csr_provide_server_key_params!wf_id!511
+2021/12/20 14:19:36 Loading handler class workflow
+2021/12/20 14:19:36 Method is action_select
+2021/12/20 14:19:36 activity select csr_provide_server_key_params
+2021/12/20 14:19:36 Adding global actions 
+2021/12/20 14:19:36 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_key_select
+2021/12/20 14:19:36 wf token id uK4cmeYEPUgqXIaAN6wYHKkMg
+2021/12/20 14:19:36 request handled
+2021/12/20 14:19:36 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:36 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:36 check for cgi session, fcgi pid 90
+2021/12/20 14:19:37 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:37 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:37 Use provided client instance
+2021/12/20 14:19:37 Backend session already loaded
+2021/12/20 14:19:37 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:37 current session status SERVICE_READY
+2021/12/20 14:19:37 handle action profile!get_key_param
+2021/12/20 14:19:37 Loading handler class profile
+2021/12/20 14:19:37 Method is action_get_key_param
+2021/12/20 14:19:37 load wf_token uK4cmeYEPUgqXIaAN6wYHKkMg
+2021/12/20 14:19:37 request handled
+2021/12/20 14:19:37 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:37 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:47 check for cgi session, fcgi pid 90
+2021/12/20 14:19:47 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:47 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:47 Use provided client instance
+2021/12/20 14:19:47 Backend session already loaded
+2021/12/20 14:19:47 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:47 current session status SERVICE_READY
+2021/12/20 14:19:47 handle action workflow
+2021/12/20 14:19:47 Loading handler class workflow
+2021/12/20 14:19:47 Method is action_index
+2021/12/20 14:19:47 load wf_token uK4cmeYEPUgqXIaAN6wYHKkMg
+2021/12/20 14:19:47 Run csr_provide_server_key_params on workflow #511
+2021/12/20 14:19:47 purge wf_token uK4cmeYEPUgqXIaAN6wYHKkMg
+2021/12/20 14:19:47 Adding global actions 
+2021/12/20 14:19:47 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_server_password
+2021/12/20 14:19:47 wf token id FS7xRHlA5IPsC8VxyaIoZ2ao
+2021/12/20 14:19:47 request handled
+2021/12/20 14:19:47 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:47 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:19:55 check for cgi session, fcgi pid 90
+2021/12/20 14:19:55 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:55 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:55 Use provided client instance
+2021/12/20 14:19:55 Backend session already loaded
+2021/12/20 14:19:55 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:55 current session status SERVICE_READY
+2021/12/20 14:19:55 handle action workflow
+2021/12/20 14:19:55 Loading handler class workflow
+2021/12/20 14:19:55 Method is action_index
+2021/12/20 14:19:55 load wf_token FS7xRHlA5IPsC8VxyaIoZ2ao
+2021/12/20 14:19:55 Run csr_retype_server_password on workflow #511
+2021/12/20 14:19:55 command execute_workflow_activity failed (ERROR)
+2021/12/20 14:19:55 I18N_OPENXPKI_SERVER_WORKFLOW_ERROR_ON_EXECUTE
+2021/12/20 14:19:55 workflow acton failed!
+2021/12/20 14:19:55 command get_workflow_info failed (ERROR)
+2021/12/20 14:19:55 I18N_OPENXPKI_SERVER_API_WORKFLOW_GET_WORKFLOW_INFO_NO_WORKFLOW_GIVEN
+2021/12/20 14:19:55 request handled
+2021/12/20 14:19:55 Session store with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:19:55 Skipping session store for id xSpeSRU/QP2gdU7BGRuFcA== - backend already gone
+2021/12/20 14:20:17 check for cgi session, fcgi pid 90
+2021/12/20 14:20:17 Backend client session id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:20:17 session id (front) is xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:20:17 Use provided client instance
+2021/12/20 14:20:17 Backend session already loaded
+2021/12/20 14:20:17 Resume backend session with id xSpeSRU/QP2gdU7BGRuFcA==
+2021/12/20 14:20:17 session logout
+2021/12/20 14:20:17 session deleted.
+2021/12/20 14:20:17 session renew while not in session - do init.
+2021/12/20 14:20:17 Session removed
+2021/12/20 14:20:17 Logout from session
+2021/12/20 14:20:17 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:20:17 request handled
+2021/12/20 14:20:17 Session removed
+2021/12/20 14:20:17 Unable to remove session - backend already gone
+2021/12/20 14:20:17 check for cgi session, fcgi pid 90
+2021/12/20 14:20:17 Backend client session id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 session id (front) is pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 Use provided client instance
+2021/12/20 14:20:17 Backend session already loaded
+2021/12/20 14:20:17 Resume backend session with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:20:17 Generate rtoken
+2021/12/20 14:20:17 Baseurl from referrer: /openxpki
+2021/12/20 14:20:17 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 request handled
+2021/12/20 14:20:17 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 Skipping session store for id pyilhX5iTb26AwAAr/ZHjg== - backend already gone
+2021/12/20 14:20:17 check for cgi session, fcgi pid 90
+2021/12/20 14:20:17 Backend client session id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 session id (front) is pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 Use provided client instance
+2021/12/20 14:20:17 Backend session already loaded
+2021/12/20 14:20:17 Resume backend session with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:17 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:20:17 request handled
+2021/12/20 14:20:17 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:18 Skipping session store for id pyilhX5iTb26AwAAr/ZHjg== - backend already gone
+2021/12/20 14:20:19 check for cgi session, fcgi pid 90
+2021/12/20 14:20:19 Backend client session id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 session id (front) is pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 Use provided client instance
+2021/12/20 14:20:19 Backend session already loaded
+2021/12/20 14:20:19 Resume backend session with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:20:19 Baseurl from referrer: /openxpki
+2021/12/20 14:20:19 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 request handled
+2021/12/20 14:20:19 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 Skipping session store for id pyilhX5iTb26AwAAr/ZHjg== - backend already gone
+2021/12/20 14:20:19 check for cgi session, fcgi pid 90
+2021/12/20 14:20:19 Backend client session id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 session id (front) is pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 Use provided client instance
+2021/12/20 14:20:19 Backend session already loaded
+2021/12/20 14:20:19 Resume backend session with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:20:19 not logged in - doing auth - page is login - action is 
+2021/12/20 14:20:19 request handled
+2021/12/20 14:20:19 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:19 Skipping session store for id pyilhX5iTb26AwAAr/ZHjg== - backend already gone
+2021/12/20 14:20:21 check for cgi session, fcgi pid 90
+2021/12/20 14:20:22 Backend client session id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:22 session id (front) is pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:22 Use provided client instance
+2021/12/20 14:20:22 Backend session already loaded
+2021/12/20 14:20:22 Resume backend session with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:22 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:20:22 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:20:22 set auth_stack in session: User
+2021/12/20 14:20:22 Authentication stack: User
+2021/12/20 14:20:22 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:20:22 Requested login type PASSWD
+2021/12/20 14:20:22 No credentials, render form
+2021/12/20 14:20:22 request handled
+2021/12/20 14:20:22 Session store with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:22 Skipping session store for id pyilhX5iTb26AwAAr/ZHjg== - backend already gone
+2021/12/20 14:20:26 check for cgi session, fcgi pid 90
+2021/12/20 14:20:26 Backend client session id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:26 session id (front) is pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:26 Use provided client instance
+2021/12/20 14:20:26 Backend session already loaded
+2021/12/20 14:20:26 Resume backend session with id pyilhX5iTb26AwAAr/ZHjg==
+2021/12/20 14:20:26 current session status GET_PASSWD_LOGIN
+2021/12/20 14:20:26 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:20:26 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:20:26 Requested login type PASSWD
+2021/12/20 14:20:26 Seems to be an auth try - validating
+2021/12/20 14:20:27 Authentication successul - fetch session info
+2021/12/20 14:20:27 session rekeying done
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Regenerated backend session id: sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 request handled
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:27 check for cgi session, fcgi pid 90
+2021/12/20 14:20:27 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Use provided client instance
+2021/12/20 14:20:27 Backend session already loaded
+2021/12/20 14:20:27 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Send redirect to welcome
+2021/12/20 14:20:27 request handled
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:27 check for cgi session, fcgi pid 90
+2021/12/20 14:20:27 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Use provided client instance
+2021/12/20 14:20:27 Backend session already loaded
+2021/12/20 14:20:27 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 current session status SERVICE_READY
+2021/12/20 14:20:27 Generate rtoken
+2021/12/20 14:20:27 Baseurl from referrer: /openxpki
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 request handled
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:27 check for cgi session, fcgi pid 90
+2021/12/20 14:20:27 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Use provided client instance
+2021/12/20 14:20:27 Backend session already loaded
+2021/12/20 14:20:27 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 current session status SERVICE_READY
+2021/12/20 14:20:27 Loading handler class home
+2021/12/20 14:20:27 Method is init_welcome
+2021/12/20 14:20:27 request handled
+2021/12/20 14:20:27 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:27 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:54 check for cgi session, fcgi pid 90
+2021/12/20 14:20:54 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 Use provided client instance
+2021/12/20 14:20:54 Backend session already loaded
+2021/12/20 14:20:54 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 current session status SERVICE_READY
+2021/12/20 14:20:54 Loading handler class workflow
+2021/12/20 14:20:54 Method is init_index
+2021/12/20 14:20:54 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_profile_select
+2021/12/20 14:20:54 wf token id s6SqXDic4imkLPqHWxbub6LT3Y
+2021/12/20 14:20:54 request handled
+2021/12/20 14:20:54 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:54 check for cgi session, fcgi pid 90
+2021/12/20 14:20:54 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 Use provided client instance
+2021/12/20 14:20:54 Backend session already loaded
+2021/12/20 14:20:54 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 current session status SERVICE_READY
+2021/12/20 14:20:54 handle action profile!get_styles_for_profile
+2021/12/20 14:20:54 Loading handler class profile
+2021/12/20 14:20:54 Method is action_get_styles_for_profile
+2021/12/20 14:20:54 request handled
+2021/12/20 14:20:54 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:54 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:57 check for cgi session, fcgi pid 90
+2021/12/20 14:20:57 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:57 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:57 Use provided client instance
+2021/12/20 14:20:57 Backend session already loaded
+2021/12/20 14:20:57 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:57 current session status SERVICE_READY
+2021/12/20 14:20:57 handle action profile!get_styles_for_profile
+2021/12/20 14:20:57 Loading handler class profile
+2021/12/20 14:20:57 Method is action_get_styles_for_profile
+2021/12/20 14:20:57 request handled
+2021/12/20 14:20:57 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:57 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:58 check for cgi session, fcgi pid 90
+2021/12/20 14:20:58 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 Use provided client instance
+2021/12/20 14:20:58 Backend session already loaded
+2021/12/20 14:20:58 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 current session status SERVICE_READY
+2021/12/20 14:20:58 handle action workflow
+2021/12/20 14:20:58 Loading handler class workflow
+2021/12/20 14:20:58 Method is action_index
+2021/12/20 14:20:58 load wf_token s6SqXDic4imkLPqHWxbub6LT3Y
+2021/12/20 14:20:58 Create new workflow certificate_signing_request_v2, got id 767
+2021/12/20 14:20:58 purge wf_token s6SqXDic4imkLPqHWxbub6LT3Y
+2021/12/20 14:20:58 request handled
+2021/12/20 14:20:58 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:20:58 check for cgi session, fcgi pid 90
+2021/12/20 14:20:58 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 Use provided client instance
+2021/12/20 14:20:58 Backend session already loaded
+2021/12/20 14:20:58 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 current session status SERVICE_READY
+2021/12/20 14:20:58 Loading handler class workflow
+2021/12/20 14:20:58 Method is init_load
+2021/12/20 14:20:58 Adding global actions 
+2021/12/20 14:20:58 request handled
+2021/12/20 14:20:58 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:20:58 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:21:02 check for cgi session, fcgi pid 90
+2021/12/20 14:21:02 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 Use provided client instance
+2021/12/20 14:21:02 Backend session already loaded
+2021/12/20 14:21:02 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 current session status SERVICE_READY
+2021/12/20 14:21:02 handle action workflow!select!wf_action!csr_provide_server_key_params!wf_id!767
+2021/12/20 14:21:02 Loading handler class workflow
+2021/12/20 14:21:02 Method is action_select
+2021/12/20 14:21:02 activity select csr_provide_server_key_params
+2021/12/20 14:21:02 Adding global actions 
+2021/12/20 14:21:02 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_key_select
+2021/12/20 14:21:02 wf token id ESoQxNOab7IzxEsFSedasN9Y4
+2021/12/20 14:21:02 request handled
+2021/12/20 14:21:02 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:21:02 check for cgi session, fcgi pid 90
+2021/12/20 14:21:02 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 Use provided client instance
+2021/12/20 14:21:02 Backend session already loaded
+2021/12/20 14:21:02 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 current session status SERVICE_READY
+2021/12/20 14:21:02 handle action profile!get_key_param
+2021/12/20 14:21:02 Loading handler class profile
+2021/12/20 14:21:02 Method is action_get_key_param
+2021/12/20 14:21:02 load wf_token ESoQxNOab7IzxEsFSedasN9Y4
+2021/12/20 14:21:02 request handled
+2021/12/20 14:21:02 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:02 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:21:09 check for cgi session, fcgi pid 90
+2021/12/20 14:21:09 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:09 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:09 Use provided client instance
+2021/12/20 14:21:09 Backend session already loaded
+2021/12/20 14:21:09 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:09 current session status SERVICE_READY
+2021/12/20 14:21:09 handle action workflow
+2021/12/20 14:21:09 Loading handler class workflow
+2021/12/20 14:21:09 Method is action_index
+2021/12/20 14:21:09 load wf_token ESoQxNOab7IzxEsFSedasN9Y4
+2021/12/20 14:21:09 Run csr_provide_server_key_params on workflow #767
+2021/12/20 14:21:09 purge wf_token ESoQxNOab7IzxEsFSedasN9Y4
+2021/12/20 14:21:09 Adding global actions 
+2021/12/20 14:21:09 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_server_password
+2021/12/20 14:21:09 wf token id prU9sWEO2ihFHPAyOvuUbcK0
+2021/12/20 14:21:09 request handled
+2021/12/20 14:21:09 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:09 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:21:21 check for cgi session, fcgi pid 90
+2021/12/20 14:21:21 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:21 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:21 Use provided client instance
+2021/12/20 14:21:21 Backend session already loaded
+2021/12/20 14:21:21 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:21 current session status SERVICE_READY
+2021/12/20 14:21:21 handle action workflow
+2021/12/20 14:21:21 Loading handler class workflow
+2021/12/20 14:21:21 Method is action_index
+2021/12/20 14:21:21 load wf_token prU9sWEO2ihFHPAyOvuUbcK0
+2021/12/20 14:21:21 Run csr_retype_server_password on workflow #767
+2021/12/20 14:21:22 command execute_workflow_activity failed (ERROR)
+2021/12/20 14:21:22 I18N_OPENXPKI_SERVER_WORKFLOW_ERROR_ON_EXECUTE
+2021/12/20 14:21:22 workflow acton failed!
+2021/12/20 14:21:22 command get_workflow_info failed (ERROR)
+2021/12/20 14:21:22 I18N_OPENXPKI_SERVER_API_WORKFLOW_GET_WORKFLOW_INFO_NO_WORKFLOW_GIVEN
+2021/12/20 14:21:22 request handled
+2021/12/20 14:21:22 Session store with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:21:22 Skipping session store for id sCSabkn/QCORSd4ArHkiLg== - backend already gone
+2021/12/20 14:21:43 check for cgi session, fcgi pid 90
+2021/12/20 14:21:43 Backend client session id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 session id (front) is 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Use provided client instance
+2021/12/20 14:21:43 Backend session already loaded
+2021/12/20 14:21:43 Resume backend session with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:21:43 Generate rtoken
+2021/12/20 14:21:43 Baseurl from referrer: /openxpki
+2021/12/20 14:21:43 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 request handled
+2021/12/20 14:21:43 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Skipping session store for id 8Q/51tyFQEusY3IGfIVuUg== - backend already gone
+2021/12/20 14:21:43 check for cgi session, fcgi pid 90
+2021/12/20 14:21:43 Backend client session id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 session id (front) is 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Use provided client instance
+2021/12/20 14:21:43 Backend session already loaded
+2021/12/20 14:21:43 Resume backend session with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:21:43 not logged in - doing auth - page is welcome - action is 
+2021/12/20 14:21:43 request handled
+2021/12/20 14:21:43 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Skipping session store for id 8Q/51tyFQEusY3IGfIVuUg== - backend already gone
+2021/12/20 14:21:43 check for cgi session, fcgi pid 90
+2021/12/20 14:21:43 Backend client session id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 session id (front) is 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Use provided client instance
+2021/12/20 14:21:43 Backend session already loaded
+2021/12/20 14:21:43 Resume backend session with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:21:43 Baseurl from referrer: /openxpki
+2021/12/20 14:21:43 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 request handled
+2021/12/20 14:21:43 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Skipping session store for id 8Q/51tyFQEusY3IGfIVuUg== - backend already gone
+2021/12/20 14:21:43 check for cgi session, fcgi pid 90
+2021/12/20 14:21:43 Backend client session id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 session id (front) is 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Use provided client instance
+2021/12/20 14:21:43 Backend session already loaded
+2021/12/20 14:21:43 Resume backend session with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:21:43 not logged in - doing auth - page is login - action is 
+2021/12/20 14:21:43 request handled
+2021/12/20 14:21:43 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:43 Skipping session store for id 8Q/51tyFQEusY3IGfIVuUg== - backend already gone
+2021/12/20 14:21:46 check for cgi session, fcgi pid 90
+2021/12/20 14:21:46 Backend client session id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:46 session id (front) is 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:46 Use provided client instance
+2021/12/20 14:21:46 Backend session already loaded
+2021/12/20 14:21:46 Resume backend session with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:46 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:21:46 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:21:46 set auth_stack in session: Operator
+2021/12/20 14:21:46 Authentication stack: Operator
+2021/12/20 14:21:46 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:21:46 Requested login type PASSWD
+2021/12/20 14:21:46 No credentials, render form
+2021/12/20 14:21:46 request handled
+2021/12/20 14:21:46 Session store with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:47 Skipping session store for id 8Q/51tyFQEusY3IGfIVuUg== - backend already gone
+2021/12/20 14:21:50 check for cgi session, fcgi pid 90
+2021/12/20 14:21:50 Backend client session id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:50 session id (front) is 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:50 Use provided client instance
+2021/12/20 14:21:50 Backend session already loaded
+2021/12/20 14:21:50 Resume backend session with id 8Q/51tyFQEusY3IGfIVuUg==
+2021/12/20 14:21:50 current session status GET_PASSWD_LOGIN
+2021/12/20 14:21:50 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:21:50 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:21:50 Requested login type PASSWD
+2021/12/20 14:21:50 Seems to be an auth try - validating
+2021/12/20 14:21:50 Authentication successul - fetch session info
+2021/12/20 14:21:50 session rekeying done
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Regenerated backend session id: rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 request handled
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:21:50 check for cgi session, fcgi pid 90
+2021/12/20 14:21:50 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Use provided client instance
+2021/12/20 14:21:50 Backend session already loaded
+2021/12/20 14:21:50 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Send redirect to welcome
+2021/12/20 14:21:50 request handled
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:21:50 check for cgi session, fcgi pid 90
+2021/12/20 14:21:50 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Use provided client instance
+2021/12/20 14:21:50 Backend session already loaded
+2021/12/20 14:21:50 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 current session status SERVICE_READY
+2021/12/20 14:21:50 Generate rtoken
+2021/12/20 14:21:50 Baseurl from referrer: /openxpki
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 request handled
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:21:50 check for cgi session, fcgi pid 90
+2021/12/20 14:21:50 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Use provided client instance
+2021/12/20 14:21:50 Backend session already loaded
+2021/12/20 14:21:50 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 current session status SERVICE_READY
+2021/12/20 14:21:50 Loading handler class home
+2021/12/20 14:21:50 Method is init_welcome
+2021/12/20 14:21:50 Found welcome landmark - redirecting user to workflow!start!wf_type!status_system
+2021/12/20 14:21:50 request handled
+2021/12/20 14:21:50 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:21:50 check for cgi session, fcgi pid 90
+2021/12/20 14:21:50 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 Use provided client instance
+2021/12/20 14:21:50 Backend session already loaded
+2021/12/20 14:21:50 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:50 current session status SERVICE_READY
+2021/12/20 14:21:50 Loading handler class workflow
+2021/12/20 14:21:50 Method is init_start
+2021/12/20 14:21:50 Create new workflow status_system, got id 0
+2021/12/20 14:21:50 deletegating render to OpenXPKI::Client::UI::Handle::Status, render_system_status
+2021/12/20 14:21:51 request handled
+2021/12/20 14:21:51 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:21:51 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:22:05 check for cgi session, fcgi pid 90
+2021/12/20 14:22:06 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:06 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:06 Use provided client instance
+2021/12/20 14:22:06 Backend session already loaded
+2021/12/20 14:22:06 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:06 current session status SERVICE_READY
+2021/12/20 14:22:06 Loading handler class certificate
+2021/12/20 14:22:06 Method is init_mine
+2021/12/20 14:22:06 request handled
+2021/12/20 14:22:06 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:06 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:22:12 check for cgi session, fcgi pid 90
+2021/12/20 14:22:12 Backend client session id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:22:12 session id (front) is sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:22:12 Use provided client instance
+2021/12/20 14:22:12 Backend session already loaded
+2021/12/20 14:22:12 Resume backend session with id sCSabkn/QCORSd4ArHkiLg==
+2021/12/20 14:22:12 session logout
+2021/12/20 14:22:12 session deleted.
+2021/12/20 14:22:12 session renew while not in session - do init.
+2021/12/20 14:22:12 Session removed
+2021/12/20 14:22:12 Logout from session
+2021/12/20 14:22:12 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:12 request handled
+2021/12/20 14:22:12 Session removed
+2021/12/20 14:22:12 Unable to remove session - backend already gone
+2021/12/20 14:22:12 check for cgi session, fcgi pid 90
+2021/12/20 14:22:12 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 Use provided client instance
+2021/12/20 14:22:12 Backend session already loaded
+2021/12/20 14:22:12 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:12 Generate rtoken
+2021/12/20 14:22:12 Baseurl from referrer: /openxpki
+2021/12/20 14:22:12 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 request handled
+2021/12/20 14:22:12 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:12 check for cgi session, fcgi pid 90
+2021/12/20 14:22:12 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 Use provided client instance
+2021/12/20 14:22:12 Backend session already loaded
+2021/12/20 14:22:12 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:12 request handled
+2021/12/20 14:22:12 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:12 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:14 check for cgi session, fcgi pid 90
+2021/12/20 14:22:14 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 Use provided client instance
+2021/12/20 14:22:14 Backend session already loaded
+2021/12/20 14:22:14 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:14 Baseurl from referrer: /openxpki
+2021/12/20 14:22:14 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 request handled
+2021/12/20 14:22:14 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:14 check for cgi session, fcgi pid 90
+2021/12/20 14:22:14 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 Use provided client instance
+2021/12/20 14:22:14 Backend session already loaded
+2021/12/20 14:22:14 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:14 not logged in - doing auth - page is login - action is 
+2021/12/20 14:22:14 request handled
+2021/12/20 14:22:14 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:14 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:17 check for cgi session, fcgi pid 90
+2021/12/20 14:22:17 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:17 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:17 Use provided client instance
+2021/12/20 14:22:17 Backend session already loaded
+2021/12/20 14:22:17 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:17 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:17 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:22:17 set auth_stack in session: User
+2021/12/20 14:22:17 Authentication stack: User
+2021/12/20 14:22:17 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:22:17 Requested login type PASSWD
+2021/12/20 14:22:17 No credentials, render form
+2021/12/20 14:22:17 request handled
+2021/12/20 14:22:17 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:17 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:29 check for cgi session, fcgi pid 90
+2021/12/20 14:22:29 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 Use provided client instance
+2021/12/20 14:22:29 Backend session already loaded
+2021/12/20 14:22:29 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 current session status GET_PASSWD_LOGIN
+2021/12/20 14:22:29 Baseurl from referrer: /openxpki
+2021/12/20 14:22:29 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 request handled
+2021/12/20 14:22:29 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:29 check for cgi session, fcgi pid 90
+2021/12/20 14:22:29 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 Use provided client instance
+2021/12/20 14:22:29 Backend session already loaded
+2021/12/20 14:22:29 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 current session status GET_PASSWD_LOGIN
+2021/12/20 14:22:29 request handled
+2021/12/20 14:22:29 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:29 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:30 check for cgi session, fcgi pid 90
+2021/12/20 14:22:30 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 Use provided client instance
+2021/12/20 14:22:30 Backend session already loaded
+2021/12/20 14:22:30 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 current session status GET_PASSWD_LOGIN
+2021/12/20 14:22:30 Baseurl from referrer: /openxpki
+2021/12/20 14:22:30 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 request handled
+2021/12/20 14:22:30 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:30 check for cgi session, fcgi pid 90
+2021/12/20 14:22:30 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 Use provided client instance
+2021/12/20 14:22:30 Backend session already loaded
+2021/12/20 14:22:30 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 current session status GET_PASSWD_LOGIN
+2021/12/20 14:22:30 not logged in - doing auth - page is login - action is 
+2021/12/20 14:22:30 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:22:30 Requested login type PASSWD
+2021/12/20 14:22:30 No credentials, render form
+2021/12/20 14:22:30 request handled
+2021/12/20 14:22:30 Session store with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:30 Skipping session store for id gEcu0lIsTWmHcR+8fhbENQ== - backend already gone
+2021/12/20 14:22:34 check for cgi session, fcgi pid 90
+2021/12/20 14:22:34 Backend client session id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:34 session id (front) is gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:34 Use provided client instance
+2021/12/20 14:22:34 Backend session already loaded
+2021/12/20 14:22:34 Resume backend session with id gEcu0lIsTWmHcR+8fhbENQ==
+2021/12/20 14:22:34 current session status GET_PASSWD_LOGIN
+2021/12/20 14:22:34 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:22:34 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:22:34 Requested login type PASSWD
+2021/12/20 14:22:34 Seems to be an auth try - validating
+2021/12/20 14:22:34 Authentication successul - fetch session info
+2021/12/20 14:22:35 session rekeying done
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Regenerated backend session id: Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 request handled
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Skipping session store for id Q3uT7fmnQPS5cI9WT4RPpg== - backend already gone
+2021/12/20 14:22:35 check for cgi session, fcgi pid 90
+2021/12/20 14:22:35 Backend client session id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 session id (front) is Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Use provided client instance
+2021/12/20 14:22:35 Backend session already loaded
+2021/12/20 14:22:35 Resume backend session with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Send redirect to welcome
+2021/12/20 14:22:35 request handled
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Skipping session store for id Q3uT7fmnQPS5cI9WT4RPpg== - backend already gone
+2021/12/20 14:22:35 check for cgi session, fcgi pid 90
+2021/12/20 14:22:35 Backend client session id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 session id (front) is Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Use provided client instance
+2021/12/20 14:22:35 Backend session already loaded
+2021/12/20 14:22:35 Resume backend session with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 current session status SERVICE_READY
+2021/12/20 14:22:35 Generate rtoken
+2021/12/20 14:22:35 Baseurl from referrer: /openxpki
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 request handled
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Skipping session store for id Q3uT7fmnQPS5cI9WT4RPpg== - backend already gone
+2021/12/20 14:22:35 check for cgi session, fcgi pid 90
+2021/12/20 14:22:35 Backend client session id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 session id (front) is Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Use provided client instance
+2021/12/20 14:22:35 Backend session already loaded
+2021/12/20 14:22:35 Resume backend session with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 current session status SERVICE_READY
+2021/12/20 14:22:35 Loading handler class home
+2021/12/20 14:22:35 Method is init_welcome
+2021/12/20 14:22:35 request handled
+2021/12/20 14:22:35 Session store with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:35 Skipping session store for id Q3uT7fmnQPS5cI9WT4RPpg== - backend already gone
+2021/12/20 14:22:42 check for cgi session, fcgi pid 90
+2021/12/20 14:22:42 Backend client session id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:42 session id (front) is Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:42 Use provided client instance
+2021/12/20 14:22:42 Backend session already loaded
+2021/12/20 14:22:42 Resume backend session with id Q3uT7fmnQPS5cI9WT4RPpg==
+2021/12/20 14:22:42 session logout
+2021/12/20 14:22:42 session deleted.
+2021/12/20 14:22:42 session renew while not in session - do init.
+2021/12/20 14:22:42 Session removed
+2021/12/20 14:22:42 Logout from session
+2021/12/20 14:22:42 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:42 request handled
+2021/12/20 14:22:42 Session removed
+2021/12/20 14:22:42 Unable to remove session - backend already gone
+2021/12/20 14:22:42 check for cgi session, fcgi pid 90
+2021/12/20 14:22:42 Backend client session id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 session id (front) is OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 Use provided client instance
+2021/12/20 14:22:42 Backend session already loaded
+2021/12/20 14:22:42 Resume backend session with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:42 Generate rtoken
+2021/12/20 14:22:42 Baseurl from referrer: /openxpki
+2021/12/20 14:22:42 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 request handled
+2021/12/20 14:22:42 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 Skipping session store for id OVJYaQOaSjWfWH5q9UiLaA== - backend already gone
+2021/12/20 14:22:42 check for cgi session, fcgi pid 90
+2021/12/20 14:22:42 Backend client session id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 session id (front) is OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 Use provided client instance
+2021/12/20 14:22:42 Backend session already loaded
+2021/12/20 14:22:42 Resume backend session with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:42 request handled
+2021/12/20 14:22:42 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:42 Skipping session store for id OVJYaQOaSjWfWH5q9UiLaA== - backend already gone
+2021/12/20 14:22:43 check for cgi session, fcgi pid 90
+2021/12/20 14:22:43 Backend client session id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 session id (front) is OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 Use provided client instance
+2021/12/20 14:22:43 Backend session already loaded
+2021/12/20 14:22:43 Resume backend session with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:43 Baseurl from referrer: /openxpki
+2021/12/20 14:22:43 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 request handled
+2021/12/20 14:22:43 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 Skipping session store for id OVJYaQOaSjWfWH5q9UiLaA== - backend already gone
+2021/12/20 14:22:43 check for cgi session, fcgi pid 90
+2021/12/20 14:22:43 Backend client session id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 session id (front) is OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 Use provided client instance
+2021/12/20 14:22:43 Backend session already loaded
+2021/12/20 14:22:43 Resume backend session with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:22:43 not logged in - doing auth - page is login - action is 
+2021/12/20 14:22:43 request handled
+2021/12/20 14:22:43 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:22:43 Skipping session store for id OVJYaQOaSjWfWH5q9UiLaA== - backend already gone
+2021/12/20 14:22:56 check for cgi session, fcgi pid 90
+2021/12/20 14:22:56 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:56 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:56 Use provided client instance
+2021/12/20 14:22:56 Backend session already loaded
+2021/12/20 14:22:56 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:56 current session status SERVICE_READY
+2021/12/20 14:22:56 Loading handler class workflow
+2021/12/20 14:22:56 Method is init_task
+2021/12/20 14:22:56 request handled
+2021/12/20 14:22:56 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:22:56 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:23:25 check for cgi session, fcgi pid 90
+2021/12/20 14:23:25 Backend client session id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:25 session id (front) is OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:25 Use provided client instance
+2021/12/20 14:23:25 Backend session already loaded
+2021/12/20 14:23:25 Resume backend session with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:25 current session status GET_AUTHENTICATION_STACK
+2021/12/20 14:23:25 not logged in - doing auth - page is  - action is login!stack
+2021/12/20 14:23:25 set auth_stack in session: User
+2021/12/20 14:23:25 Authentication stack: User
+2021/12/20 14:23:25 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:23:25 Requested login type PASSWD
+2021/12/20 14:23:25 No credentials, render form
+2021/12/20 14:23:25 request handled
+2021/12/20 14:23:25 Session store with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:25 Skipping session store for id OVJYaQOaSjWfWH5q9UiLaA== - backend already gone
+2021/12/20 14:23:30 check for cgi session, fcgi pid 90
+2021/12/20 14:23:30 Backend client session id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:30 session id (front) is OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:30 Use provided client instance
+2021/12/20 14:23:30 Backend session already loaded
+2021/12/20 14:23:30 Resume backend session with id OVJYaQOaSjWfWH5q9UiLaA==
+2021/12/20 14:23:30 current session status GET_PASSWD_LOGIN
+2021/12/20 14:23:30 not logged in - doing auth - page is  - action is login!password
+2021/12/20 14:23:30 Selected realm , new status GET_PASSWD_LOGIN
+2021/12/20 14:23:30 Requested login type PASSWD
+2021/12/20 14:23:30 Seems to be an auth try - validating
+2021/12/20 14:23:30 Authentication successul - fetch session info
+2021/12/20 14:23:30 session rekeying done
+2021/12/20 14:23:30 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Regenerated backend session id: JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 request handled
+2021/12/20 14:23:30 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:30 check for cgi session, fcgi pid 90
+2021/12/20 14:23:30 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Use provided client instance
+2021/12/20 14:23:30 Backend session already loaded
+2021/12/20 14:23:30 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Send redirect to welcome
+2021/12/20 14:23:30 request handled
+2021/12/20 14:23:30 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:30 check for cgi session, fcgi pid 90
+2021/12/20 14:23:30 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Use provided client instance
+2021/12/20 14:23:30 Backend session already loaded
+2021/12/20 14:23:30 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 current session status SERVICE_READY
+2021/12/20 14:23:30 Generate rtoken
+2021/12/20 14:23:30 Baseurl from referrer: /openxpki
+2021/12/20 14:23:30 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 request handled
+2021/12/20 14:23:30 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:30 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:30 check for cgi session, fcgi pid 90
+2021/12/20 14:23:31 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:31 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:31 Use provided client instance
+2021/12/20 14:23:31 Backend session already loaded
+2021/12/20 14:23:31 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:31 current session status SERVICE_READY
+2021/12/20 14:23:31 Loading handler class home
+2021/12/20 14:23:31 Method is init_welcome
+2021/12/20 14:23:31 request handled
+2021/12/20 14:23:31 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:31 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:40 check for cgi session, fcgi pid 90
+2021/12/20 14:23:40 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 Use provided client instance
+2021/12/20 14:23:40 Backend session already loaded
+2021/12/20 14:23:40 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 current session status SERVICE_READY
+2021/12/20 14:23:40 Loading handler class workflow
+2021/12/20 14:23:40 Method is init_index
+2021/12/20 14:23:40 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_profile_select
+2021/12/20 14:23:40 wf token id AEK833sET55rc8QP7VP7o0nLI
+2021/12/20 14:23:40 request handled
+2021/12/20 14:23:40 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:40 check for cgi session, fcgi pid 90
+2021/12/20 14:23:40 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 Use provided client instance
+2021/12/20 14:23:40 Backend session already loaded
+2021/12/20 14:23:40 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 current session status SERVICE_READY
+2021/12/20 14:23:40 handle action profile!get_styles_for_profile
+2021/12/20 14:23:40 Loading handler class profile
+2021/12/20 14:23:40 Method is action_get_styles_for_profile
+2021/12/20 14:23:40 request handled
+2021/12/20 14:23:40 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:40 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:45 check for cgi session, fcgi pid 90
+2021/12/20 14:23:45 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 Use provided client instance
+2021/12/20 14:23:45 Backend session already loaded
+2021/12/20 14:23:45 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 current session status SERVICE_READY
+2021/12/20 14:23:45 handle action profile!get_styles_for_profile
+2021/12/20 14:23:45 Loading handler class profile
+2021/12/20 14:23:45 Method is action_get_styles_for_profile
+2021/12/20 14:23:45 request handled
+2021/12/20 14:23:45 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:45 check for cgi session, fcgi pid 90
+2021/12/20 14:23:45 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 Use provided client instance
+2021/12/20 14:23:45 Backend session already loaded
+2021/12/20 14:23:45 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:45 current session status SERVICE_READY
+2021/12/20 14:23:45 handle action workflow
+2021/12/20 14:23:45 Loading handler class workflow
+2021/12/20 14:23:45 Method is action_index
+2021/12/20 14:23:45 load wf_token AEK833sET55rc8QP7VP7o0nLI
+2021/12/20 14:23:46 Create new workflow certificate_signing_request_v2, got id 1023
+2021/12/20 14:23:46 purge wf_token AEK833sET55rc8QP7VP7o0nLI
+2021/12/20 14:23:46 request handled
+2021/12/20 14:23:46 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:46 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:46 check for cgi session, fcgi pid 90
+2021/12/20 14:23:46 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:46 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:46 Use provided client instance
+2021/12/20 14:23:46 Backend session already loaded
+2021/12/20 14:23:46 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:46 current session status SERVICE_READY
+2021/12/20 14:23:46 Loading handler class workflow
+2021/12/20 14:23:46 Method is init_load
+2021/12/20 14:23:46 Adding global actions 
+2021/12/20 14:23:46 request handled
+2021/12/20 14:23:46 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:46 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:50 check for cgi session, fcgi pid 90
+2021/12/20 14:23:50 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:50 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:50 Use provided client instance
+2021/12/20 14:23:50 Backend session already loaded
+2021/12/20 14:23:50 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:50 current session status SERVICE_READY
+2021/12/20 14:23:50 handle action workflow!select!wf_action!csr_provide_server_key_params!wf_id!1023
+2021/12/20 14:23:50 Loading handler class workflow
+2021/12/20 14:23:50 Method is action_select
+2021/12/20 14:23:50 activity select csr_provide_server_key_params
+2021/12/20 14:23:50 Adding global actions 
+2021/12/20 14:23:50 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_key_select
+2021/12/20 14:23:51 wf token id srZFJH3TlXEmeZ26fvwgqUvWyM
+2021/12/20 14:23:51 request handled
+2021/12/20 14:23:51 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:51 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:51 check for cgi session, fcgi pid 90
+2021/12/20 14:23:51 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:51 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:51 Use provided client instance
+2021/12/20 14:23:51 Backend session already loaded
+2021/12/20 14:23:51 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:51 current session status SERVICE_READY
+2021/12/20 14:23:51 handle action profile!get_key_param
+2021/12/20 14:23:51 Loading handler class profile
+2021/12/20 14:23:51 Method is action_get_key_param
+2021/12/20 14:23:51 load wf_token srZFJH3TlXEmeZ26fvwgqUvWyM
+2021/12/20 14:23:51 request handled
+2021/12/20 14:23:51 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:51 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:23:59 check for cgi session, fcgi pid 90
+2021/12/20 14:23:59 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:59 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:59 Use provided client instance
+2021/12/20 14:23:59 Backend session already loaded
+2021/12/20 14:23:59 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:59 current session status SERVICE_READY
+2021/12/20 14:23:59 handle action workflow
+2021/12/20 14:23:59 Loading handler class workflow
+2021/12/20 14:23:59 Method is action_index
+2021/12/20 14:23:59 load wf_token srZFJH3TlXEmeZ26fvwgqUvWyM
+2021/12/20 14:23:59 Run csr_provide_server_key_params on workflow #1023
+2021/12/20 14:23:59 purge wf_token srZFJH3TlXEmeZ26fvwgqUvWyM
+2021/12/20 14:23:59 Adding global actions 
+2021/12/20 14:23:59 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_server_password
+2021/12/20 14:23:59 wf token id 1FSfj2TkUpTkm37YxEzN1lAZM
+2021/12/20 14:23:59 request handled
+2021/12/20 14:23:59 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:23:59 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:06 check for cgi session, fcgi pid 90
+2021/12/20 14:24:06 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:06 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:06 Use provided client instance
+2021/12/20 14:24:06 Backend session already loaded
+2021/12/20 14:24:06 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:06 current session status SERVICE_READY
+2021/12/20 14:24:06 handle action workflow
+2021/12/20 14:24:06 Loading handler class workflow
+2021/12/20 14:24:06 Method is action_index
+2021/12/20 14:24:06 load wf_token 1FSfj2TkUpTkm37YxEzN1lAZM
+2021/12/20 14:24:06 Run csr_retype_server_password on workflow #1023
+2021/12/20 14:24:06 command execute_workflow_activity failed (ERROR)
+2021/12/20 14:24:06 I18N_OPENXPKI_SERVER_WORKFLOW_ERROR_ON_EXECUTE
+2021/12/20 14:24:06 workflow acton failed!
+2021/12/20 14:24:06 command get_workflow_info failed (ERROR)
+2021/12/20 14:24:06 I18N_OPENXPKI_SERVER_API_WORKFLOW_GET_WORKFLOW_INFO_NO_WORKFLOW_GIVEN
+2021/12/20 14:24:06 request handled
+2021/12/20 14:24:06 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:06 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:19 check for cgi session, fcgi pid 90
+2021/12/20 14:24:19 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:19 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:19 Use provided client instance
+2021/12/20 14:24:19 Backend session already loaded
+2021/12/20 14:24:19 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:19 current session status SERVICE_READY
+2021/12/20 14:24:19 Loading handler class workflow
+2021/12/20 14:24:19 Method is init_index
+2021/12/20 14:24:19 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_profile_select
+2021/12/20 14:24:19 wf token id j6UscKLbW2eH84DGBcLACOtFn6M
+2021/12/20 14:24:19 request handled
+2021/12/20 14:24:19 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:20 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:20 check for cgi session, fcgi pid 90
+2021/12/20 14:24:20 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:20 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:20 Use provided client instance
+2021/12/20 14:24:20 Backend session already loaded
+2021/12/20 14:24:20 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:20 current session status SERVICE_READY
+2021/12/20 14:24:20 handle action profile!get_styles_for_profile
+2021/12/20 14:24:20 Loading handler class profile
+2021/12/20 14:24:20 Method is action_get_styles_for_profile
+2021/12/20 14:24:20 request handled
+2021/12/20 14:24:20 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:20 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:22 check for cgi session, fcgi pid 90
+2021/12/20 14:24:22 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:22 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:22 Use provided client instance
+2021/12/20 14:24:22 Backend session already loaded
+2021/12/20 14:24:22 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:22 current session status SERVICE_READY
+2021/12/20 14:24:22 handle action profile!get_styles_for_profile
+2021/12/20 14:24:22 Loading handler class profile
+2021/12/20 14:24:22 Method is action_get_styles_for_profile
+2021/12/20 14:24:22 request handled
+2021/12/20 14:24:22 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:22 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:23 check for cgi session, fcgi pid 90
+2021/12/20 14:24:23 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 Use provided client instance
+2021/12/20 14:24:23 Backend session already loaded
+2021/12/20 14:24:23 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 current session status SERVICE_READY
+2021/12/20 14:24:23 handle action workflow
+2021/12/20 14:24:23 Loading handler class workflow
+2021/12/20 14:24:23 Method is action_index
+2021/12/20 14:24:23 load wf_token j6UscKLbW2eH84DGBcLACOtFn6M
+2021/12/20 14:24:23 Create new workflow certificate_signing_request_v2, got id 1279
+2021/12/20 14:24:23 purge wf_token j6UscKLbW2eH84DGBcLACOtFn6M
+2021/12/20 14:24:23 request handled
+2021/12/20 14:24:23 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:23 check for cgi session, fcgi pid 90
+2021/12/20 14:24:23 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 Use provided client instance
+2021/12/20 14:24:23 Backend session already loaded
+2021/12/20 14:24:23 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 current session status SERVICE_READY
+2021/12/20 14:24:23 Loading handler class workflow
+2021/12/20 14:24:23 Method is init_load
+2021/12/20 14:24:23 Adding global actions 
+2021/12/20 14:24:23 request handled
+2021/12/20 14:24:23 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:23 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:27 check for cgi session, fcgi pid 90
+2021/12/20 14:24:27 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 Use provided client instance
+2021/12/20 14:24:27 Backend session already loaded
+2021/12/20 14:24:27 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 current session status SERVICE_READY
+2021/12/20 14:24:27 handle action workflow!select!wf_action!csr_provide_server_key_params!wf_id!1279
+2021/12/20 14:24:27 Loading handler class workflow
+2021/12/20 14:24:27 Method is action_select
+2021/12/20 14:24:27 activity select csr_provide_server_key_params
+2021/12/20 14:24:27 Adding global actions 
+2021/12/20 14:24:27 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_key_select
+2021/12/20 14:24:27 wf token id rBxwgxi0cUjE28QuJfCu8Y4dDF8
+2021/12/20 14:24:27 request handled
+2021/12/20 14:24:27 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:27 check for cgi session, fcgi pid 90
+2021/12/20 14:24:27 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 Use provided client instance
+2021/12/20 14:24:27 Backend session already loaded
+2021/12/20 14:24:27 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 current session status SERVICE_READY
+2021/12/20 14:24:27 handle action profile!get_key_param
+2021/12/20 14:24:27 Loading handler class profile
+2021/12/20 14:24:27 Method is action_get_key_param
+2021/12/20 14:24:27 load wf_token rBxwgxi0cUjE28QuJfCu8Y4dDF8
+2021/12/20 14:24:27 request handled
+2021/12/20 14:24:27 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:27 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:40 check for cgi session, fcgi pid 90
+2021/12/20 14:24:40 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:40 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:40 Use provided client instance
+2021/12/20 14:24:40 Backend session already loaded
+2021/12/20 14:24:40 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:40 current session status SERVICE_READY
+2021/12/20 14:24:40 handle action workflow
+2021/12/20 14:24:40 Loading handler class workflow
+2021/12/20 14:24:40 Method is action_index
+2021/12/20 14:24:40 load wf_token rBxwgxi0cUjE28QuJfCu8Y4dDF8
+2021/12/20 14:24:40 Run csr_provide_server_key_params on workflow #1279
+2021/12/20 14:24:40 purge wf_token rBxwgxi0cUjE28QuJfCu8Y4dDF8
+2021/12/20 14:24:40 Adding global actions 
+2021/12/20 14:24:40 deletegating render to OpenXPKI::Client::UI::Handle::Profile, render_server_password
+2021/12/20 14:24:40 wf token id k0hfG8gdZTeHEhKiFdlziqbUk
+2021/12/20 14:24:40 request handled
+2021/12/20 14:24:40 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:41 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:24:57 check for cgi session, fcgi pid 90
+2021/12/20 14:24:58 Backend client session id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:58 session id (front) is JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:58 Use provided client instance
+2021/12/20 14:24:58 Backend session already loaded
+2021/12/20 14:24:58 Resume backend session with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:58 current session status SERVICE_READY
+2021/12/20 14:24:58 handle action workflow
+2021/12/20 14:24:58 Loading handler class workflow
+2021/12/20 14:24:58 Method is action_index
+2021/12/20 14:24:58 load wf_token k0hfG8gdZTeHEhKiFdlziqbUk
+2021/12/20 14:24:58 Run csr_retype_server_password on workflow #1279
+2021/12/20 14:24:58 command execute_workflow_activity failed (ERROR)
+2021/12/20 14:24:58 I18N_OPENXPKI_SERVER_WORKFLOW_ERROR_ON_EXECUTE
+2021/12/20 14:24:58 workflow acton failed!
+2021/12/20 14:24:58 command get_workflow_info failed (ERROR)
+2021/12/20 14:24:58 I18N_OPENXPKI_SERVER_API_WORKFLOW_GET_WORKFLOW_INFO_NO_WORKFLOW_GIVEN
+2021/12/20 14:24:58 request handled
+2021/12/20 14:24:58 Session store with id JVtS0hgQSBiTYU9pmAhDsg==
+2021/12/20 14:24:58 Skipping session store for id JVtS0hgQSBiTYU9pmAhDsg== - backend already gone
+2021/12/20 14:25:10 check for cgi session, fcgi pid 90
+2021/12/20 14:25:10 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:10 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:10 Use provided client instance
+2021/12/20 14:25:10 Backend session already loaded
+2021/12/20 14:25:10 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:10 current session status SERVICE_READY
+2021/12/20 14:25:10 Loading handler class workflow
+2021/12/20 14:25:10 Method is init_task
+2021/12/20 14:25:10 request handled
+2021/12/20 14:25:10 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:10 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:25:18 check for cgi session, fcgi pid 90
+2021/12/20 14:25:18 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:18 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:18 Use provided client instance
+2021/12/20 14:25:18 Backend session already loaded
+2021/12/20 14:25:18 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:18 current session status SERVICE_READY
+2021/12/20 14:25:18 Loading handler class information
+2021/12/20 14:25:18 Method is init_issuer
+2021/12/20 14:25:18 request handled
+2021/12/20 14:25:18 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:18 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:25:27 check for cgi session, fcgi pid 90
+2021/12/20 14:25:28 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:28 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:28 Use provided client instance
+2021/12/20 14:25:28 Backend session already loaded
+2021/12/20 14:25:28 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:28 current session status SERVICE_READY
+2021/12/20 14:25:28 Loading handler class workflow
+2021/12/20 14:25:28 Method is init_search
+2021/12/20 14:25:28 request handled
+2021/12/20 14:25:28 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:28 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:25:29 check for cgi session, fcgi pid 90
+2021/12/20 14:25:29 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:29 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:29 Use provided client instance
+2021/12/20 14:25:29 Backend session already loaded
+2021/12/20 14:25:29 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:29 current session status SERVICE_READY
+2021/12/20 14:25:29 Loading handler class bulk
+2021/12/20 14:25:29 Method is init_index
+2021/12/20 14:25:29 request handled
+2021/12/20 14:25:29 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:29 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:25:36 check for cgi session, fcgi pid 90
+2021/12/20 14:25:36 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:36 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:36 Use provided client instance
+2021/12/20 14:25:36 Backend session already loaded
+2021/12/20 14:25:36 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:36 current session status SERVICE_READY
+2021/12/20 14:25:36 Loading handler class certificate
+2021/12/20 14:25:36 Method is init_search
+2021/12/20 14:25:36 request handled
+2021/12/20 14:25:36 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:36 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:25:41 check for cgi session, fcgi pid 90
+2021/12/20 14:25:42 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:42 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:42 Use provided client instance
+2021/12/20 14:25:42 Backend session already loaded
+2021/12/20 14:25:42 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:42 current session status SERVICE_READY
+2021/12/20 14:25:42 Loading handler class certificate
+2021/12/20 14:25:42 Method is init_mine
+2021/12/20 14:25:42 request handled
+2021/12/20 14:25:42 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:42 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
+2021/12/20 14:25:44 check for cgi session, fcgi pid 90
+2021/12/20 14:25:44 Backend client session id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:44 session id (front) is rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:44 Use provided client instance
+2021/12/20 14:25:44 Backend session already loaded
+2021/12/20 14:25:44 Resume backend session with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:44 current session status SERVICE_READY
+2021/12/20 14:25:44 Loading handler class workflow
+2021/12/20 14:25:44 Method is init_task
+2021/12/20 14:25:44 request handled
+2021/12/20 14:25:44 Session store with id rrQ504sPSXaoi11BQ5XYdQ==
+2021/12/20 14:25:44 Skipping session store for id rrQ504sPSXaoi11BQ5XYdQ== - backend already gone
